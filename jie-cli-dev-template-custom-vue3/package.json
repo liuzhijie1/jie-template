@@ -1,0 +1,17 @@
+{
+  "name": "jie-cli-dev-template-custom-vue3",
+  "version": "1.0.12",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "inquirer": "^7.0.0",
+    "glob": "^10.3.10",
+    "ejs": "^3.1.9"
+  }
+}
